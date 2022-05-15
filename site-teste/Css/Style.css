@@ -1,0 +1,19 @@
+*{
+    background-color: #f9f6f1;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.topo {
+    height: 96px;
+    
+    background-color: #7cc5fa;
+}
+
+.topoInterno {
+    background-color: #264c68;
+    width: 1000px;
+    margin: auto;
+}
